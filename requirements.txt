@@ -8,8 +8,8 @@ cryptography==3.3.2; python_version < '3.0'
 enum34==1.1.10; python_version < '3.0'
 future==0.18.2; python_version < '3.0'
 hyperlink==21.0.0
-idna==3.3; python_version > '3.0'
-idna==2.10; python_version < '3.0'
+idna==3.7; python_version > '3.0'
+idna==3.7; python_version < '3.0'
 incremental==21.3.0
 ipaddress==1.0.23; python_version < '3.0'
 ldaptor==21.2.0; python_version > '3.0'
