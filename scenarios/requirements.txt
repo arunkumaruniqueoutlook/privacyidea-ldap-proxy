@@ -1,5 +1,5 @@
 appdirs==1.4.0
-configobj==5.0.6
+configobj==5.0.9
 ldap3==2.2.0
 packaging==16.8
 pyasn1==0.2.2
