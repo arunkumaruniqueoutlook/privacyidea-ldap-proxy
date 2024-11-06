@@ -1,7 +1,7 @@
 appdirs==1.4.0
 click==6.7
 Flask==0.12
-gevent==1.1.1
+gevent==24.10.1
 greenlet==0.4.12
 itsdangerous==0.24
 Jinja2==2.9.5
