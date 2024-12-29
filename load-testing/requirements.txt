@@ -4,7 +4,7 @@ Flask==0.12
 gevent==1.1.1
 greenlet==0.4.12
 itsdangerous==0.24
-Jinja2==2.9.5
+Jinja2==3.1.5
 ldap3==2.2.0
 locustio==0.7.5
 MarkupSafe==0.23
