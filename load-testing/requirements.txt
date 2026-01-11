@@ -14,4 +14,5 @@ pyasn1==0.2.2
 pyparsing==2.1.10
 requests==2.20.1
 six==1.10.0
-Werkzeug==0.11.15
+Werkzeug==3.1.5
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
